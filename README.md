@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project 0 for Project Nautilus ##
 
 ###Instructions:
@@ -8,3 +9,8 @@
 3. Looks better, but now see how the profile picture is just too big for the page? There's a bug in your CSS. Contact your mentor to get some help!
 4. Now that you have the styles for the page, customize some colors! Go into styles.css and change the color of the colored bar in the middle of the screen.
 5. What did you say for the last question? Hop on chat and share your answer with your group! See any common answers?
+=======
+# presentation-website
+presentation website
+that is it for now
+>>>>>>> cb730ce0568b2d9a645c8bb6be68906f5bbfbde9
